@@ -25,4 +25,5 @@ Desktop-based Inventory and Sales Management System developed using Java Swing a
 4. Run the application.
 
 ## Author
-Saut Ronaldo Limbong
+Saut Ronaldo Limbong ,NIM:2400310228,UJIAN UAS MATA KULIAH PROGRAM APLIKASI BISNIS
+
